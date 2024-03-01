@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "food-safety-312101",
+  "private_key_id": "b53018abc127fa7e12be2ee0b9acb291e8b85512",
+  "private_key": "",
+  "client_email": "envision-center-food-safety@food-safety-312101.iam.gserviceaccount.com",
+  "client_id": "112498699430794056241",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/envision-center-food-safety%40food-safety-312101.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
